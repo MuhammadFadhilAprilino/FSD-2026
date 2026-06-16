@@ -13,3 +13,6 @@ Project dan tugas FSD 2026 Logistic Regression - tugas pertemuan 11
 
 Project dan tugas 2026 Decision Tree dan Random Forest pertemuan 12
 (https://colab.research.google.com/github/MuhammadFadhilAprilino/FSD-2026/blob/main/Decision_tree_dan_Random_Forest.ipynb)
+
+Project dan tugas 2026 SVM classification pertemuan 17
+(https://colab.research.google.com/github/MuhammadFadhilAprilino/FSD-2026/blob/main/SVM_classification.ipynb)
