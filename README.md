@@ -18,4 +18,4 @@ Project dan tugas 2026 SVM classification pertemuan 17
 (https://colab.research.google.com/github/MuhammadFadhilAprilino/FSD-2026/blob/main/SVM_classification.ipynb)
 
 Project dan tugas 2026 SVM classification pertemuan 25
-(https://colab.research.google.com/github/MuhammadFadhilAprilino/FSD-2026/blob/main/Dimensionality/Reduction/Dimensionality_Reduction.ipynb)
+(https://colab.research.google.com/github/MuhammadFadhilAprilino/FSD-2026/blob/main/Dimensionality%20Reduction/Dimensionality_Reduction.ipynb)
