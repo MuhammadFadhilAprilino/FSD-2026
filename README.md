@@ -16,3 +16,6 @@ Project dan tugas 2026 Decision Tree dan Random Forest pertemuan 12
 
 Project dan tugas 2026 SVM classification pertemuan 17
 (https://colab.research.google.com/github/MuhammadFadhilAprilino/FSD-2026/blob/main/SVM_classification.ipynb)
+
+Project dan tugas 2026 SVM classification pertemuan 25
+(https://colab.research.google.com/github/MuhammadFadhilAprilino/FSD-2026/blob/main/Dimensionality_Reduction.ipynb)
